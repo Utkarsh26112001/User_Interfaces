@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>RegistrationControl</title>
+
+</head>
+<body><center>
+<H1>Apply for Credit Card</H1>
+<form>
+    <table><tr>
+        <td><label for="fname">First name:</label></td>
+        <td><input type="text" id="fname" name="fname" maxlength="12"></td></tr>
+        <tr>
+            <td><label for="lname">Last name:</label></td>
+            <td> <input type="text" id="lname" name="lname" maxlength="12"></td></tr>
+        <tr>
+            <td><label for="address">Address:</label></td>
+            <td><textarea  id="address" rows="4" cols="10">
+            </textarea></td>
+        </tr>
+        <tr>
+            <td><label for="langknown">Languages Known:</label></td>
+            <td><select name="languages" id="langknown">
+        <option value="select" select>Select </option>
+        <option value="English">English</option>
+        <option value="Hindi">Hindi</option>
+        <option value="Tamil">Tamil</option>
+        <option value="Malayalam">Malayalam</option>
+        <option value="Telugu">Telugu</option>
+        </select></td>
+        </tr>
+    <tr>
+        <td><label for="gender">Sex:</label></td>
+        <td> <input type="radio" id="sex" name="gender" value="male">Male
+            <input type="radio" id="gender" name="gender" value="female">Female</td>
+    </tr>
+        <tr>
+        <td> <label>Hobbies:</label></td>
+    <td><input type="checkbox" id="h1" name="h1" value="Singing">Singing
+    <input type="checkbox" id="h2" name="h2" value="Dancing">Dancing
+    <input type="checkbox" id="h3" name="h3" value="Sports">Sports
+    <input type="checkbox" id="h4" name="h4" value="Others">Others
+    </td></tr>
+        <tr>
+    <td><button type="button">Reset</button></td>
+    <td><button type="button">Apply Card</button></td></tr>
+    </table></center>
+</form>
+</body>
+</html>
