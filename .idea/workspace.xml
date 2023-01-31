@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="24fc430c-52e6-4656-957b-19c980bc9e6a" name="Changes" comment="" />
+    <list default="true" id="24fc430c-52e6-4656-957b-19c980bc9e6a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/gui/Homehtml/gradient.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gui/Homehtml/logout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gui/Homehtml/modiji.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gui/Homehtml/page1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gui/Project/frontpage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gui/check.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gui/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gui/RegistrationControl.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gui/RegistrationControl.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,14 +23,20 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
         <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2KtcZOR37EWNgYcszgcc2WHWekv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -31,15 +47,23 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/utkarshtiwari/eclipse-workspace/userinterfaces/src/com/gui/images&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/gui/images" />
+      <recent name="$PROJECT_DIR$/src/com/gui/Homehtml" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/gui/Homehtml" />
       <recent name="$PROJECT_DIR$/src/com/gui/images" />
       <recent name="$PROJECT_DIR$/src/com/gui" />
     </key>
@@ -57,6 +81,9 @@
       <workItem from="1674802315572" duration="8781000" />
       <workItem from="1674926901130" duration="105000" />
       <workItem from="1674927009687" duration="25000" />
+      <workItem from="1674927057960" duration="216000" />
+      <workItem from="1675052084991" duration="15053000" />
+      <workItem from="1675138838861" duration="3386000" />
     </task>
     <servers />
   </component>
